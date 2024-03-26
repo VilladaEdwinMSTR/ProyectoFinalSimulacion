@@ -1,0 +1,40 @@
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.exe.config
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.pdb
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.csproj.AssemblyReference.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.Properties.Resources.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.csproj.GenerateResource.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.csproj.CopyComplete
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.pdb
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmInicio.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmPruebas.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmProblema.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmIntervalos.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmHistorial.resources
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.exe.manifest
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.application
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.exe.manifest
+C:\Users\edwin\OneDrive\Desktop\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.application
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.exe.config
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.exe.manifest
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.application
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.exe
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\bin\Debug\Proyecto Final Individual.pdb
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.csproj.AssemblyReference.cache
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmInicio.resources
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmHistorial.resources
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmIntervalos.resources
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmProblema.resources
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.frmPruebas.resources
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto_Final_Individual.Properties.Resources.resources
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.exe.manifest
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.application
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.csproj.CopyComplete
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.exe
+C:\Users\edwin\Desktop\Respaldo\Semestre 4\Simulacion\Proyecto Final Individual\obj\Debug\Proyecto Final Individual.pdb
